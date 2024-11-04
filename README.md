@@ -20,5 +20,7 @@ the goal is to produce a Power BI dashboard that presnts my analysis.
 - Power BI: Power Business Inteligent, Business analysis tool for interactive data visualization and building reports
 
 ### Data Exploration
-  #### Features Identified for Analysis
-  ### The features identified for analysis are  
+#### Features Identified for Analysis 
+The features identified for analysis are CustomrerID, Region, Subscription Type, Cancelled, Revenue, Subcription Duration.
+the reason for choosing these features is simply because i want to know how customer behavoir affects subcription pattern and
+cancellation trends.
