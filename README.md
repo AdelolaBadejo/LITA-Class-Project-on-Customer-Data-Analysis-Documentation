@@ -7,7 +7,11 @@ the goal is to produce a Power BI dashboard that presnts my analysis.
 ### Data Sources
 - Excel File on Customer Data
 - CVS File on Customer Data
-  ### tools Used
-  - Microsoft Excel: For data cleaning analysis and visualization
-  - SQL: A sructure query language for quering database
-  - Power BI: Power Business Inteligent, Business analysis tool for interactive data visualization and building reports 
+### Tools Used
+- Microsoft Excel [download Here](https://www.microsoft.com)
+    1. For Data Cleaning
+    2. For Data Analysis
+    3. For Data Visualization
+- SQL: A sructure query language for quering database
+- Power BI: Power Business Inteligent, Business analysis tool for interactive data visualization and building reports
+  ### Data Exporation
