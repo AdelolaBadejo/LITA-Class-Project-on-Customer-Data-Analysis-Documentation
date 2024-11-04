@@ -36,5 +36,7 @@ cancellation trends.
 - Cleaning the Dataset
 
 ### Data Analysis
+---
+Excel: I analysed customer data using Pivot table to find subcription patterns. This gave rise to the following results
 
 
