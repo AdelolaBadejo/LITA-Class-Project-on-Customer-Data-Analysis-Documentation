@@ -38,5 +38,5 @@ cancellation trends.
 ### Data Analysis
 ---
 Excel: I analysed customer data using Pivot table to find subcription patterns. This gave rise to the following results
-
+https://github.com/AdelolaBadejo/LITA-Class-Project-on-Customer-Data-Analysis-Documentation/blob/main/EXCEL%20CUSTOMER%20data%204.png
 
