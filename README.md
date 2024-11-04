@@ -37,7 +37,7 @@ cancellation trends.
 
 ### Data Analysis
 ---
-Excel
+1. Microsoft Excel
 
 ![Excelcustomer7](https://github.com/user-attachments/assets/a9944d1d-c085-4172-83d8-9e054e8fe53c)
 
@@ -67,4 +67,5 @@ From Pivot Table:
 - The False Cancelled has the highest customer and subscription duration and generated the highest revenue.
 - in conclusion The East region has the highest Basic subcription type with the highest subscrtion duration and generated the highest revenue
 
-- 
+2. SQL (Structure Query Language)
+   
