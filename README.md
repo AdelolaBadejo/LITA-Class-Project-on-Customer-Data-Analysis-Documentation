@@ -46,4 +46,5 @@ https://github.com/AdelolaBadejo/LITA-Class-Project-on-Customer-Data-Analysis-Do
 From the Pivot Table: 
 - The Basic subscription type has the highest customer and subscription duration and so generated the highest revenue.
 - The East region hes the highest customer and generated the highest revenue.
-- The False Cancelled has the highest customer and subscription duration and generated the highest revenue
+- The False Cancelled has the highest customer and subscription duration and generated the highest revenue.
+- in conclusion The East region has the highest Basic subcription type with the highest subscrtion duration and generated the highest revenue
