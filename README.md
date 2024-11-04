@@ -68,4 +68,20 @@ From Pivot Table:
 - in conclusion The East region has the highest Basic subcription type with the highest subscrtion duration and generated the highest revenue
 
 2. SQL (Structure Query Language)
-   
+
+![Sql1](https://github.com/user-attachments/assets/b90e347a-3c82-48a1-8636-24793199e5a4)
+
+![Sql2](https://github.com/user-attachments/assets/6b07e832-e32b-4cc5-aca2-27407e934e3d)
+
+![Sql3](https://github.com/user-attachments/assets/eee7c59f-38b6-40ed-82e6-1a5a9dc28cba)
+
+![Sql4](https://github.com/user-attachments/assets/00b7707f-9a4e-4ead-a252-cb379e8c9fcc)
+
+![Sql5](https://github.com/user-attachments/assets/7554c1a4-2971-4a5f-9aea-442550b78bc7)
+
+![Sql6](https://github.com/user-attachments/assets/c68cd795-071f-43bf-a8df-c40438a77541)
+
+![sQl7](https://github.com/user-attachments/assets/ff871ec0-6c7a-47da-b005-8c44bdea62e0)
+
+![sql8](https://github.com/user-attachments/assets/9b7c544b-9a79-4c40-8c0f-b4680ce124e0)
+
