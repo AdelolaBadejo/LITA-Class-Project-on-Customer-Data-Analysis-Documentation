@@ -37,6 +37,13 @@ cancellation trends.
 
 ### Data Analysis
 ---
+Excel
+
+![Excelcustomer7](https://github.com/user-attachments/assets/a9944d1d-c085-4172-83d8-9e054e8fe53c)
+
+![Excelcustomer8](https://github.com/user-attachments/assets/1e5ff247-9db6-458c-a953-e5b344c18e34)
+
+
 ![excel customer1](https://github.com/user-attachments/assets/ac300123-964f-4472-9e95-f857cfd22ccf)
 
 ![EXcelcustomer2](https://github.com/user-attachments/assets/4011de14-c611-433f-a849-0d046ef8daaa)
@@ -47,8 +54,17 @@ cancellation trends.
 
 ![EXCelcustomer6](https://github.com/user-attachments/assets/8a68ecd1-20ed-4e97-8e0e-dfa5f2e0f292)
 
-From the Pivot Table: 
+In Summary
+
+- Subscription duration was calculated by subtracting subscription end from sudscription start
+- The average subscrption duration 365.3498 was calculated using the Average formular.
+- The most popular subscription type Basic was identified using the countif functions 
+
+From Pivot Table: 
+
 - The Basic subscription type has the highest customer and subscription duration and so generated the highest revenue.
 - The East region hes the highest customer and generated the highest revenue.
 - The False Cancelled has the highest customer and subscription duration and generated the highest revenue.
 - in conclusion The East region has the highest Basic subcription type with the highest subscrtion duration and generated the highest revenue
+
+- 
