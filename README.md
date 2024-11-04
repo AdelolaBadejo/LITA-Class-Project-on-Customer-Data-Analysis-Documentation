@@ -37,15 +37,15 @@ cancellation trends.
 
 ### Data Analysis
 ---
-Excel: I analysed customer data using Pivot table to find subcription patterns. This gave rise to the following results
+![excel customer1](https://github.com/user-attachments/assets/ac300123-964f-4472-9e95-f857cfd22ccf)
 
-https://github.com/AdelolaBadejo/LITA-Class-Project-on-Customer-Data-Analysis-Documentation/blob/main/EXCEL%20CUSTOMER%20data%204.png
+![EXcelcustomer2](https://github.com/user-attachments/assets/4011de14-c611-433f-a849-0d046ef8daaa)
 
-https://github.com/AdelolaBadejo/LITA-Class-Project-on-Customer-Data-Analysis-Documentation/blob/main/EXcel%20Customer%20data%203.png
+![Excelcustomer3](https://github.com/user-attachments/assets/97c57a41-3d66-4ee8-89ed-5ea9c37e7ded)
 
-https://github.com/AdelolaBadejo/LITA-Class-Project-on-Customer-Data-Analysis-Documentation/blob/main/Excel%20Customer%20Data%202.png
+![EXcelcustomer4](https://github.com/user-attachments/assets/09c40df8-da94-4b78-b421-00d56b1c9745)
 
-https://github.com/AdelolaBadejo/LITA-Class-Project-on-Customer-Data-Analysis-Documentation/blob/main/Excel%20Customer%20data%205.png
+![EXCelcustomer6](https://github.com/user-attachments/assets/8a68ecd1-20ed-4e97-8e0e-dfa5f2e0f292)
 
 From the Pivot Table: 
 - The Basic subscription type has the highest customer and subscription duration and so generated the highest revenue.
