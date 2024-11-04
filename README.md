@@ -41,3 +41,9 @@ Excel: I analysed customer data using Pivot table to find subcription patterns. 
 https://github.com/AdelolaBadejo/LITA-Class-Project-on-Customer-Data-Analysis-Documentation/blob/main/EXCEL%20CUSTOMER%20data%204.png
 https://github.com/AdelolaBadejo/LITA-Class-Project-on-Customer-Data-Analysis-Documentation/blob/main/EXcel%20Customer%20data%203.png
 https://github.com/AdelolaBadejo/LITA-Class-Project-on-Customer-Data-Analysis-Documentation/blob/main/Excel%20Customer%20Data%202.png
+https://github.com/AdelolaBadejo/LITA-Class-Project-on-Customer-Data-Analysis-Documentation/blob/main/Excel%20Customer%20data%205.png
+
+From the Pivot Table: 
+- The Basic subscription type has the highest customer and subscription duration and so generated the highest revenue.
+- The East region hes the highest customer and generated the highest revenue.
+- The False Cancelled has the highest customer and subscription duration and generated the highest revenue
