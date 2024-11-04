@@ -24,3 +24,9 @@ the goal is to produce a Power BI dashboard that presnts my analysis.
 The features identified for analysis are CustomrerID, Region, Subscription Type, Cancelled, Revenue, Subcription Duration.
 the reason for choosing these features is simply because i want to know how customer behavoir affects subcription pattern and
 cancellation trends.
+
+### Pre-Posssesing Techniques Used
+- Loading of the Dataset
+- Understanding the Dataset
+- Cleaning the Dataset
+
