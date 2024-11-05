@@ -54,13 +54,13 @@ cancellation trends.
 
 ![EXCelcustomer6](https://github.com/user-attachments/assets/8a68ecd1-20ed-4e97-8e0e-dfa5f2e0f292)
 
-In Summary
+#### In Summary
 
 - Subscription duration was calculated by subtracting subscription end from sudscription start
 - The average subscrption duration 365.3498 was calculated using the Average formular.
 - The most popular subscription type Basic was identified using the countif functions 
 
-From Pivot Table: 
+#### From Pivot Table: 
 
 - The Basic subscription type has the highest customer and subscription duration and so generated the highest revenue.
 - The East region hes the highest customer and generated the highest revenue.
@@ -77,6 +77,7 @@ From Pivot Table:
 
 ![Sql4](https://github.com/user-attachments/assets/00b7707f-9a4e-4ead-a252-cb379e8c9fcc)
 
+##### Find Customers with subscription longer than 12 months 
 ![Sql5](https://github.com/user-attachments/assets/7554c1a4-2971-4a5f-9aea-442550b78bc7)
 
 ![Sql6](https://github.com/user-attachments/assets/c68cd795-071f-43bf-a8df-c40438a77541)
@@ -84,6 +85,13 @@ From Pivot Table:
 ![sQl7](https://github.com/user-attachments/assets/ff871ec0-6c7a-47da-b005-8c44bdea62e0)
 
 ![sql8](https://github.com/user-attachments/assets/9b7c544b-9a79-4c40-8c0f-b4680ce124e0)
+
+#### Insight:
+- The region with the highest customer is the east
+- The subcription type most of the customer used is the Basic subcription type
+- There was no customer who cancelled their subscription within 6 months
+- There was no customer with subscription longer than 12 months because the subscription duration is not
+  more than a year 
 
 #### Microsoft Power BI (Business Intelligent Data Visualisation)
 
