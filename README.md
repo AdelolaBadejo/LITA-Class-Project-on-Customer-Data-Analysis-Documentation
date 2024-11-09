@@ -94,7 +94,7 @@ cancellation trends.
 - There was no customer with subscription longer than 12 months because the subscription duration is not
   more than a year 
 
-#### Microsoft Power BI (Business Intelligent Data Visualisation)
+#### Microsoft Power BI (Business Intelligent tools for interactive visualisation)
 
 ![PowerBi1](https://github.com/user-attachments/assets/2159bc3c-75b8-4839-84df-13829867ecce)
 
