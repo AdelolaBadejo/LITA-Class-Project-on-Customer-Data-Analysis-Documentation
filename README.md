@@ -105,4 +105,8 @@ cancellation trends.
   This means most of the customers have active subscription, their subcription was not cancelled
 
 ### Recommendations
-1. 
+---
+
+1. Tailor marketing strategies and campaign on customer preference  and behaviour in each region to enhance brand visibility
+   and customer engagement
+2. Develop plans to promote the subcription of Premium and Standard in regions with lower subscription to increase subcription demands
