@@ -5,13 +5,12 @@
 ### Project Overview
 ---
 This project on customer data involves analyzing customer data for a subscription service to identify segments and trends.
-i am tasked to understand customer behavior, track subscription types, and identify key trends in cancelletions and renewals.
+I am tasked to understand customer behavior, track subscription types and identify key trends in cancelletions and renewals.
 the goal is to produce a Power BI dashboard that presnts my analysis.
 
 ### Data Sources
 ---
-- Excel File on Customer Data
-- CVS File on Customer Data
+
 
 ### Tools Used
 ---
